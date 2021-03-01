@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_for_a_book">Search for a book</string>
+    <string name="search">Search</string>
+    <string name="title">Book Depo</string>
+    <string name="book_cover">Book COVER</string>
+</resources>
